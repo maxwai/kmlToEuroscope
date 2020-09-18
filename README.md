@@ -1,5 +1,7 @@
-![test](https://badgen.net/badge/language/Java/green)
+![Java](https://badgen.net/badge/language/Java/green)
 [![GitHub license](https://badgen.net/github/license/maxwai/kmlToEuroscope)](LICENSE)
+[![release](https://badgen.net/github/release/maxwai/kmlToEuroscope)](https://github.com/maxwai/kmlToEuroscope/releases)
+
 
 # kmlToEuroscope
 A Tool to convert kml files from google earth to Files for Euroscope

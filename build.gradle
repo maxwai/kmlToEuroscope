@@ -1,0 +1,22 @@
+apply plugin: 'java'
+
+jar {
+    manifest {
+        attributes (
+                'Main-Class': 'KmlToFreeText'
+        )
+    }
+}
+
+group 'de.maxwai'
+version '1.0'
+targetCompatibility = 14
+sourceCompatibility = 14
+
+repositories {
+    mavenCentral()
+}
+
+dependencies {
+    implementation('org.jetbrains:annotations:16.0.2')
+}

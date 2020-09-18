@@ -1,13 +1,5 @@
 apply plugin: 'java'
 
-jar {
-    manifest {
-        attributes (
-                'Main-Class': 'KmlToFreeText'
-        )
-    }
-}
-
 group 'de.maxwai'
 version '1.0'
 targetCompatibility = 14

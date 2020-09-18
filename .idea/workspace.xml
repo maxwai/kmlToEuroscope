@@ -21,6 +21,9 @@
       <change beforePath="$PROJECT_DIR$/.idea/artifacts/Jar_Artifact.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/artifacts/Jar_Artifact.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build" beforeDir="true" />
+      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/settings.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/settings.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/META-INF" beforeDir="true" />
       <change beforePath="$PROJECT_DIR$/src/main/java/de/MaxWai/Main/KmlToFreeText.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/de/MaxWai/Main/KmlToFreeText.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -112,7 +115,7 @@
     <property name="Repository.Attach.Sources" value="false" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/.idea" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -154,19 +157,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
-      <option name="arquillianRunConfiguration">
-        <value>
-          <option name="containerStateName" value="" />
-        </value>
-      </option>
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="kmlToFreeText [jar]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
@@ -203,16 +193,16 @@
     <option name="myMappingRoots">
       <list>
         <SvnCopyRootSimple>
-          <option name="myVcsRoot" value="E:\Dokumente\programme\kmlToFreeText" />
-          <option name="myCopyRoot" value="E:\Dokumente\programme\kmlToFreeText" />
+          <option name="myVcsRoot" value="E:\Dokumente\programme\kmlToEuroscope" />
+          <option name="myCopyRoot" value="E:\Dokumente\programme\kmlToEuroscope" />
         </SvnCopyRootSimple>
       </list>
     </option>
     <option name="myMoreRealMappingRoots">
       <list>
         <SvnCopyRootSimple>
-          <option name="myVcsRoot" value="E:\Dokumente\programme\kmlToFreeText" />
-          <option name="myCopyRoot" value="E:\Dokumente\programme\kmlToFreeText" />
+          <option name="myVcsRoot" value="E:\Dokumente\programme\kmlToEuroscope" />
+          <option name="myCopyRoot" value="E:\Dokumente\programme\kmlToEuroscope" />
         </SvnCopyRootSimple>
       </list>
     </option>
@@ -236,11 +226,16 @@
       <workItem from="1600426249065" duration="66000" />
       <workItem from="1600426362940" duration="2595000" />
       <workItem from="1600429019002" duration="1695000" />
+      <workItem from="1600430893104" duration="522000" />
+      <workItem from="1600431459545" duration="421000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.name" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="initial commit" />

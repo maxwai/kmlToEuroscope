@@ -33,3 +33,5 @@ hs_err_pid*
 
 .idea/discord.xml
 .idea/vcs.xml
+/.idea/
+/gradle/
